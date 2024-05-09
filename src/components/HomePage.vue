@@ -28,6 +28,11 @@
           <router-link class="nav-link" to="/getcustomer ">Get Customer</router-link>
         </li>
       </ul>
+      <ul>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/getproduct ">Get Product</router-link>
+        </li>
+      </ul>
 
 
     </div>
